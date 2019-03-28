@@ -36,8 +36,7 @@
   },
   "devDependencies": {
     "lint-staged": "^7.3.0",
-    "prettier": "^1.14.3",
-    "redux-devtools-extension": "^2.13.5"
+    "prettier": "^1.14.3"
   },
   "lint-staged": {
     "*.{js,json}": [
